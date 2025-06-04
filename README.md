@@ -1,12 +1,56 @@
-# React + Vite
+# Y2Z Itinerary Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based drag-and-drop travel itinerary planner with Tailwind CSS. Organize daily activities easily using a sortable UI.
 
-Currently, two official plugins are available:
+## Features
+- Drag & drop to reorder activities per day  
+- Clean responsive design with Tailwind CSS  
+- Activity cards with images, ratings, reviews, and descriptions  
+- Location pin icon and map integration  
+- Built with React, @dnd-kit, and Heroicons  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+React | Tailwind CSS v3 | @dnd-kit | Vite | Heroicons
 
-## Expanding the ESLint configuration
+## Installation
+```bash
+git clone https://github.com/yourusername/y2z-itinerary-planner.git
+cd y2z-itinerary-planner
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+Open http://localhost:5173 to view locally.
+
+Project Structure
+src/components/: React components
+
+src/data/: Itinerary data
+
+src/lib/: Utilities
+
+src/types/: Type definitions
+
+Deployment
+Deploy easily on Vercel or Netlify by connecting your GitHub repo.
+
+Author
+Amit Singh Adhikari
+Email: amitadhikari525252@gmail.com
+GitHub: Amitadhikari52
+
+Feel free to contribute or report issues!
+
+vbnet
+Copy
+Edit
+
+Let me know if you want me to add or tweak anything!
+
+
+
+
+
+
+
