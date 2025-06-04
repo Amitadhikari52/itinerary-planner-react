@@ -42,10 +42,6 @@ GitHub: Amitadhikari52
 
 Feel free to contribute or report issues!
 
-vbnet
-Copy
-Edit
-
 Let me know if you want me to add or tweak anything!
 
 
